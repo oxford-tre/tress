@@ -10,7 +10,7 @@ TREu is the code base behind the UCL ARC Trusted Research Environment. That TRE 
 - **TREo** is Oxford’s fork of that code, kept mutually up to date with TREu.
 - **TRESS** also refers to the Oxford deployment of TREo, running on AWS and hosting pilot research projects.
 
-Together these show that a production TRE, and the security management that surrounds it, can be shared between sovereign institutions. We are now looking for other institutions and large research projects that want to use TREu or help develop it.
+Together these show that a production TRE, and the security management that surrounds it, can be shared between sovereign research institutions (and not just in academia). We are now looking for other institutions and projects across all research sectors that want to use TREu or help develop it.
 
 ## The problem it addresses
 
