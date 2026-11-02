@@ -14,15 +14,15 @@ Together these show that a production TRE, and the security management that surr
 
 ## The problem it addresses
 
-The UK has many University TREs and many TRE code bases. Few are reusable, and fewer still are open source once you count the institutional governance that goes with them. The result is duplicated effort, inconsistent security practice and barriers to collaboration, all of which slow research and raise costs.
+The UK has many institutional TREs and many TRE code bases. Few are reusable, and fewer still are open source once you count the governance that goes with them. The result is duplicated effort, inconsistent security practice and barriers to collaboration, all of which slow research and raise costs.
 
-Even where TRE code is shared, each organisation must still run its own change control under its own Information Security Management System (ISMS). In practice this means organisations fork open-source TRE code, and the cost of re-approving upstream changes means those forks diverge more or less permanently. TREu takes a different approach: it shares the code, the ISMS, and the processes for changing both.
+Even where TRE code is shared, each institution must still run its own change control under its own Information Security Management System (ISMS). In practice this means institutions fork open-source TRE code, and the cost of re-approving upstream changes means those forks diverge more or less permanently. TREu takes a different approach: it shares the code, the ISMS, and the processes for changing both.
 
 ## What TREu offers
 
 **Certification- and production-ready code and documentation.** UCL ARC runs TREu and its ISMS at scale today. That deployment is certified to ISO 27001 and compliant with the NHS Data Security and Protection Toolkit. An adopter starts from something that has already passed audit, not from a design on paper.
 
-**A Shared Responsibility Model that scales.** TREu is designed to provide a TRE service to a large, varied organisation without the core TRE team becoming responsible for everything. Layered, independent technical controls isolate projects from each other and from IT systems outside the TRE. On top of that isolation, responsibilities are clearly divided:
+**A Shared Responsibility Model that scales.** TREu is designed to provide a TRE service to a large, varied institution without the core TRE team becoming responsible for everything. Layered, independent technical controls isolate projects from each other and from IT systems outside the TRE. On top of that isolation, responsibilities are clearly divided:
 
 - project risks are limited by isolation, and residual risks belong to study owners and researchers under well-defined agreements;
 - project data remains the responsibility of its information asset owner;
@@ -40,7 +40,7 @@ Even where TRE code is shared, each organisation must still run its own change c
 
 TREu is meant to be adopted by a modest team, not built through a large programme.
 
-An adopting organisation would typically need to bring:
+An adopting institution would typically need to bring:
 
 | What          | More                                                                                                               | Indicative scale                                                                                       |
 |---------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
